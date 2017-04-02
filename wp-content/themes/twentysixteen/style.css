@@ -3977,3 +3977,27 @@ p > video {
 		padding: 0;
 	}
 }
+ /* 2017/2/12 profileページ */
+.entry-content > p1 strong {
+    font-size: 24px;
+}
+.profile {
+    display: inline-flex;
+}
+.profileTxt {
+   padding-left: 10px;
+}
+.profileTxt .p1 {
+    font-size: 13px;
+}
+.career{
+	margin: 0;
+    font-size: 13px;
+}
+.name {
+    font-size: 17px;
+    text-align: center;
+    font-weight: 500;
+    margin: 0px;
+}
+
